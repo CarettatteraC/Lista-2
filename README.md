@@ -1,28 +1,26 @@
 # Lista-1
-Exercício 1: Crie uma variável chamada idade e atribua a ela sua idade. Em seguida, exiba a idade no console.
-Exercício 2: Crie uma variável chamada nome e atribua a ela seu nome. Em seguida, exiba seu nome no
-console.
-Exercício 3: Crie uma variável chamada isEstudante e atribua a ela um valor booleano representando se você é
-um estudante ou não. Exiba o valor no console.
-Exercício 4: Crie duas variáveis numéricas, numero1 e numero2, e realize as seguintes operações:
-● Soma dos números.
-● Subtração dos números.
-● Multiplicação dos números.
-● Divisão dos números.
-Exiba os resultados no console.
-Exercício 5: Crie uma variável chamada frase e atribua a ela uma frase em forma de string. Em seguida, exiba
-a frase no console.
-Exercício 6: Crie uma variável chamada tamanhoFrase e atribua a ela o comprimento da frase do exercício
-anterior. Exiba o valor no console.
-Exercício 7: Crie uma variável chamada temNumero e atribua a ela um valor booleano que indique se a frase
-do exercício 5 contém algum número. Exiba o valor no console.
-Exercício 8: Crie uma variável chamada listaDeCompras e atribua a ela uma lista (array) de strings
-representando itens de uma lista de compras. Exiba a lista no console.
-Exercício 9: Crie uma variável chamada primeiroItem e atribua a ela o primeiro item da lista de compras do
-exercício anterior. Exiba o valor no console.
-Exercício 10: Crie uma variável chamada ultimoItem e atribua a ela o último item da lista de compras do
-exercício 8. Exiba o valor no console.
-Exercício 11: Crie uma variável chamada idadeString e atribua a ela sua idade como uma string. Em seguida,
-converta essa string em um número inteiro e exiba no console.
-Exercício 12: Crie uma variável chamada precoProduto e atribua a ela um número decimal representando o
-preço de um produto. Arredonde o preço para o inteiro mais próximo e exiba o valor no console
+Exercício 1: Crie um programa que verifica se um número é positivo ou negativo. Peça ao usuário para
+inserir um número e exiba uma mensagem indicando se é positivo ou negativo.
+Exercício 2: Escreva um programa que verifica se um número é par ou ímpar. Peça ao usuário para inserir
+um número e exiba uma mensagem indicando se é par ou ímpar.
+Exercício 3: Crie um programa que verifica se um número é maior, menor ou igual a 10. Peça ao usuário
+para inserir um número e exiba uma mensagem correspondente.
+Exercício 4: Desenvolva um programa que determina se um aluno foi aprovado em uma disciplina com base
+em sua nota. Peça ao usuário para inserir sua nota e defina um limite de aprovação. Em seguida, exiba uma
+mensagem indicando se o aluno foi aprovado ou reprovado.
+Exercício 5: Crie um programa que ajuda a decidir se uma pessoa pode dirigir ou não com base na idade.
+Peça ao usuário para inserir sua idade e verifique se ela tem idade suficiente para dirigir (geralmente 18 anos
+ou mais).
+Exercício 6: Escreva um programa que determine se uma pessoa é elegível para votar nas eleições com
+base em sua idade. Peça ao usuário para inserir sua idade e exiba uma mensagem indicando se ele/ela pode
+votar (geralmente 16 anos ou mais).
+Exercício 7: Crie um programa que verifica se um número é positivo, negativo ou zero. Peça ao usuário para
+inserir um número e exiba uma mensagem correspondente.
+Exercício 8: Desenvolva um programa que determina se um número é divisível por outro. Peça ao usuário
+para inserir dois números e verifique se o primeiro é divisível pelo segundo. Exiba uma mensagem
+apropriada.
+Exercício 9: Escreva um programa que determine se um ano é bissexto ou não. Peça ao usuário para inserir
+um ano e verifique se ele é divisível por 4 e não por 100 ou se é divisível por 400.
+Exercício 10: Crie um programa que ajuda a decidir se uma pessoa deve pagar impostos com base em sua
+renda. Peça ao usuário para inserir sua renda anual e determine se ele/ela deve pagar impostos (por
+exemplo, se a renda for maior que um determinado valor)
