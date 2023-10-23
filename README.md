@@ -1,4 +1,4 @@
-# Lista-1
+# Lista-2
 Exercício 1: Crie um programa que verifica se um número é positivo ou negativo. Peça ao usuário para
 inserir um número e exiba uma mensagem indicando se é positivo ou negativo.
 Exercício 2: Escreva um programa que verifica se um número é par ou ímpar. Peça ao usuário para inserir
